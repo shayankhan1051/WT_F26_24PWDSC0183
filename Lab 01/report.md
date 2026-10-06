@@ -1,0 +1,3 @@
+# Lab 01 Report
+
+In this lab, I learned how to use Visual Studio Code and Git for web development. I learned how to create and manage files using Git and GitHub. I practiced important commands such as add, commit, push, pull, and clone. I also learned how to create a separate branch and merge it into the main branch. This lab helped me understand how Git and GitHub are used to manage and track changes in a project.
